@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://arvist.ai/
+standards:
+  - id: iso-27001
+    conforms: true
+    evidence: 'Homepage states verbatim: "Arvist is ISO 27001 certified and SOC 2 Type I compliant for IT security."'
+  - id: soc-2-type-i
+    conforms: true
+    evidence: 'Homepage states verbatim: "Arvist is ISO 27001 certified and SOC 2 Type I compliant for IT security."'
+  - id: soc-2-type-ii
+    conforms: false
+  - id: hipaa
+    conforms: false
+  - id: gdpr
+    conforms: false
+    evidence: 'No GDPR statement published; privacy policy at https://arvist.ai/privacy-policy/'
+notes: >
+  Arvist AI is a computer-vision warehouse-operations platform (quality control,
+  safety & compliance, freight claims). It publishes no public developer API,
+  OpenAPI, or developer portal; integration is via 80+ WMS/ERP platforms and an
+  on-premise edge-server architecture. Compliance posture (ISO 27001, SOC 2 Type I)
+  is asserted on the marketing site, not on a dedicated trust-center page.
