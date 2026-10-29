@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Arvist is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Arvist AI is a Chicago-based computer-vision platform for warehouse and supply-chain operations that turns existing cameras, scanners, and WMS/ERP data into automated quality control, safety and compliance monitoring, load verification, inbound shipment inspection, and freight-claims management. The system deploys on-premise edge servers, integrates with 80+ leading WMS and ERP platforms without new hardware, and detects damage, defects, unsafe behavior, and outbound shipping errors in real time. Backed by Techstars, Arvist is ISO 27001 certified and SOC 2 Type I compliant. This profile was added to the API Evangelist network as a portfolio lead and enriched from Arvist's public web surface; the company currently publishes no public developer API or OpenAPI.
 
-Backed by: techstars — https://arvist.ai/
+**Areas:** Company · Computer Vision · Artificial Intelligence · Warehouse · Supply Chain · Logistics · Quality Control · Safety and Compliance
+
+## Arvist on APIs.io
+
+Everything profiled for Arvist is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arvist/](https://apis.io/providers/arvist/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Arvist Domain Security](https://apis.io/security/arvist/arvist-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://arvist.ai/)
+- [Support](https://arvist.ai/talk-to-us/)
+- [Blog](https://arvist.ai/blogs/)
+- [Compliance](https://arvist.ai/)
+- [Terms of service](https://arvist.ai/terms-and-condition/)
+- [Privacy policy](https://arvist.ai/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 15.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arvist/](https://apis.io/providers/arvist/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Arvist: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/arvist/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
